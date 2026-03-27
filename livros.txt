@@ -1,0 +1,3 @@
+Crônicas de Nárnia;false
+Pequeno Príncipe;false
+Confissões;false
